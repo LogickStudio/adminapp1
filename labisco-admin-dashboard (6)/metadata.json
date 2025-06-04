@@ -1,0 +1,6 @@
+{
+  "name": "Labisco Admin Dashboard",
+  "description": "An admin dashboard for Labisco to view stats, manage products, and manage the entire shop. Provides insights into sales, orders, and customer activity, along with tools for product catalog management and shop configuration.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
